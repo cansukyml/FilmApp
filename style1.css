@@ -1,0 +1,50 @@
+
+.form-group{
+    display: inline-block;
+}
+.form-control{
+    width: 220px;
+    display: inline-block;
+}
+.bbb{
+    background: url(resim.jpg);
+    background-size: 100% 100%;
+    height: 100vh;
+}
+.c{
+    position:absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%,-50%); 
+        width: 100%;
+        text-align: center;
+
+
+
+}
+
+#buton{
+    transition: 1s;
+}
+
+#buton:hover{
+    transform: rotate(30deg) scale(1.2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
